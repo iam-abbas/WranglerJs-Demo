@@ -1,0 +1,6 @@
+name = "abbas-cf"
+type = "javascript"
+account_id = "d65f9379d47b77fd3adf391c3c6f226f"
+workers_dev = true
+route = ""
+zone_id = ""
